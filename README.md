@@ -7,7 +7,7 @@
 ---
 
 ### 🛠️ Tech I Work With:
-- **Languages:** Python, SQL, JavaScript (basic)
+- **Languages:** Python, SQL R
 - **Libraries & Frameworks:** Pandas, scikit-learn, Transformers, Flask, Streamlit, NLTK, SpaCy
 - **Tools:** Git, GitHub, VS Code, MongoDB, Google Colab
 - **Currently Exploring:** LangChain, LLMs, Google Cloud, FinTech APIs
@@ -16,7 +16,6 @@
 
 ### 🚀 Projects
 - 🔍 [AI-Powered Forensic Document Summarization System](https://github.com/february-king/AI-Powered-Forensic-Document-Summarization-System)
-- 📊 Financial risk modeling using ML
 - 💬 Legal text classification with BERT and XGBoost
 
 ---
