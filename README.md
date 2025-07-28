@@ -1,7 +1,7 @@
 ### 👋 Hi, I'm Manish Chaudhary
 
 🎓 I'm a final-year Data Science student passionate about building intelligent systems that solve real-world problems.  
-🔬 Currently working on NLP and FinTech projects, especially around document summarization, risk modeling, and AI applications in law and finance.  
+🔬 Currently working on NLP and Algorithmic Trading projects, especially around document summarization, risk modeling, and AI applications in law and finance.  
 🧠 Strong believer in fundamentals — combining Python and Math for meaningful AI.
 
 ---
@@ -28,6 +28,6 @@
 
 ---
 
-📫 Reach me at [LinkedIn](https://www.linkedin.com/in/manishchaudhary3089)
+📫 Reach me at [LinkedIn](https://www.linkedin.com/in/manishchaudhary3089) [X](https://x.com/GodOverGreed)
 
 > “Build for impact, learn for life.”
