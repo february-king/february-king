@@ -28,6 +28,7 @@
 
 ---
 
-📫 Reach me at [LinkedIn](https://www.linkedin.com/in/manishchaudhary3089) [X](https://x.com/GodOverGreed)
+📫 Reach me at [X](https://x.com/GodOverGreed)
+[LinkedIn](https://www.linkedin.com/in/manishchaudhary3089)
 
 > “Build for impact, learn for life.”
